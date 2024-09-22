@@ -11,5 +11,3 @@
 6. Once the terminal is open paste the code from GitHub into the terminal and press enter
 
 Your repository is now successfully created. If you want to confirm then this type `git` into the terminal
-
-I ADDED THJIS SHIRT 
